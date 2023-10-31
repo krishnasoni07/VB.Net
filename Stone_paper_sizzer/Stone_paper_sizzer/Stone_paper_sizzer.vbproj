@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Stone_paper_sizzer</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\krishna\Desktop\GitHub Repos\VB.Net\Stone_paper_sizzer.vb" Link="Stone_paper_sizzer.vb" />
+  </ItemGroup>
+
+</Project>
